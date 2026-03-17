@@ -1,0 +1,17 @@
+Run npm install
+added 150 packages in 5s
+
+Run npm test
+> jest
+
+ PASS  test/app.test.js
+  ✓ should return hello world (5 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+
+Run cleanup
+Cleaning workspace
+rm -rf node_modules
+
+Workflow completed successfully
